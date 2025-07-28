@@ -1,0 +1,14 @@
+# API Keys for the LangChain Chatbot
+# Copy this file to .env and add your actual API keys
+
+# OpenAI API Key (for ChatGPT)
+# Get your key from: https://platform.openai.com/api-keys
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Google API Key (for Gemini)
+# Get your key from: https://makersuite.google.com/app/apikey
+GOOGLE_API_KEY=your_google_api_key_here
+
+# Optional: Flask configuration
+FLASK_ENV=development
+FLASK_DEBUG=True 
