@@ -39,6 +39,16 @@ A modern, feature-rich chatbot interface built with **LangChain** and **Flask** 
 - **Context Management**: Persistent or one-time context injection
 - **Session Management**: Clear conversations and manage history
 
+## 📸 Screenshots
+
+### Configuration Panel Open
+![Configuration Panel Open](screenshots/config-open.png)
+*Chatbot interface with configuration panel expanded, showing model selection, memory modes, and context options.*
+
+### Configuration Panel Closed
+![Configuration Panel Closed](screenshots/config-closed.png)
+*Chatbot interface with configuration panel collapsed, maximizing the chat area for better conversation experience.*
+
 ## 🚀 Quick Start
 
 ### Prerequisites
