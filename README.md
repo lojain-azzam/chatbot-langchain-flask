@@ -7,6 +7,18 @@ A modern, feature-rich chatbot interface built with **LangChain** and **Flask** 
 ![Flask](https://img.shields.io/badge/Flask-2.3+-lightgrey)
 ![LangChain](https://img.shields.io/badge/LangChain-0.0.350+-orange)
 
+
+
+## 📸 Screenshots
+
+### Configuration Panel Open
+![Configuration Panel Open](screenshots/config-open.png)
+*Chatbot interface with configuration panel expanded, showing model selection, memory modes, and context options.*
+
+### Configuration Panel Closed
+![Configuration Panel Closed](screenshots/config-closed.png)
+*Chatbot interface with configuration panel collapsed, maximizing the chat area for better conversation experience.*
+
 ## ✨ Features
 
 ### 🧠 **Multiple AI Models**
